@@ -1,0 +1,22 @@
+{
+  "name": "chapter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dh8888/gitTest1209.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dh8888/gitTest1209/issues"
+  },
+  "homepage": "https://github.com/Dh8888/gitTest1209#readme",
+  "dependencies": {
+    "webpack": "^5.10.0"
+  }
+}
